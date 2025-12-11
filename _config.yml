@@ -1,5 +1,5 @@
-title: "Hyperion Gray Licensing Multiverse"
-description: "A (not really) legal approach to chaotic licensing and researcher rights."
+# title: "Hyperion Gray Licensing Multiverse"
+# description: "A (not really) legal approach to chaotic licensing and researcher rights."
 theme: minima
 
 # GitHub Pages options
@@ -14,8 +14,8 @@ author:
 minima:
   skin: classic
 
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
 
 # Include our custom assets
 include:
