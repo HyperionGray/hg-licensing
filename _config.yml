@@ -19,7 +19,7 @@ plugins:
 
 # Include our custom assets
 include:
-  - assets/css/custom.css
+  - assets/main.css
   - HYPERION_GRAY_BOOK_ON_LICENSING_FOR_PEOPLE_WHO_CANT_READ_GOOD_AND_WANT_TO_LEARN_TO_DO_OTHER_STUFF_GOOD_TOO.md
   - choose-your-license.md
   - license-tarot.md

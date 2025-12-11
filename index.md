@@ -1,7 +1,3 @@
----
-title: Welcome to the Hyperion Gray Licensing Multiverse
----
-
 # The Hyperion Gray Licensing Multiverse
 ### A Unified Portal for Licensing Chaos, Legal Satire, and Researcher Rights
 
@@ -18,13 +14,13 @@ This site exists to help:
 
 ---
 
-# 📚 THE BOOK  
+# THE BOOK  
 **Read the entire sacred text:**  
 [`HYPERION_GRAY_BOOK_ON_LICENSING_FOR_PEOPLE_WHO_CANT_READ_GOOD_AND_WANT_TO_LEARN_TO_DO_OTHER_STUFF_GOOD_TOO.md`](./HYPERION_GRAY_BOOK_ON_LICENSING_FOR_PEOPLE_WHO_CANT_READ_GOOD_AND_WANT_TO_LEARN_TO_DO_OTHER_STUFF_GOOD_TOO.md)
 
 ---
 
-# 🎴 TAROT  
+# TAROT  
 [**Hyperion Gray Licensing Tarot**](./license-tarot.md)
 
 Draw a card. Summon your license.
