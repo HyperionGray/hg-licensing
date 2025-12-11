@@ -1,8 +1,5 @@
-# The Hyperion Gray Licensing Multiverse
-### A Unified Portal for Licensing Chaos, Legal Satire, and Researcher Rights
-
 Welcome to the **official (unofficial) headquarters** for the  
-**Hyperion Gray Book on Licensing for People Who Can’t Read Good and Want to Learn To Do Other Stuff Good Too**.
+**Hyperion Gray Book on Licensing for People Who Can’t Read Good and Want to Learn To Do Other Stuff Good Too Like Licensing (WIP)**.
 
 This site exists to help:
 
