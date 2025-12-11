@@ -1,7 +1,8 @@
-remote_theme: jekyll/minima@d4d779a
+---
+---
 
-title: null
-name: null
+
+remote_theme: jekyll/minima@d4d779a
 
 titles_from_headings:
   enabled:     true
