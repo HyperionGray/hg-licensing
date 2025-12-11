@@ -1,7 +1,13 @@
+remote_theme: jekyll/minima@d4d779a
+
 title: null
 name: null
 
-remote_theme: jekyll/minima@d4d779a
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
+
 
 # GitHub Pages options
 markdown: kramdown
@@ -18,7 +24,8 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-titles-from-headings
+  
 # Include our custom assets
 include:
   - assets/main.css
