@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperion-gray-licensing-cli"
+version = "0.1.0"
+description = "A chaotic licensing decision support tool for the Hyperion Gray License Multiverse."
+authors = [
+  { name = "Hyperion Gray", email = "licenses@hyperiongray.local" }
+]
+requires-python = ">=3.8"
+license = { text = "Screw it, pick one of the HG licenses." }
+readme = "HYPERION_GRAY_BOOK_ON_LICENSING_FOR_PEOPLE_WHO_CANT_READ_GOOD_AND_WANT_TO_LEARN_TO_DO_OTHER_STUFF_GOOD_TOO.md"
+
+[project.scripts]
+hglicense = "hg_license_cli:main"

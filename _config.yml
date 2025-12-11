@@ -1,0 +1,30 @@
+title: "Hyperion Gray Licensing Multiverse"
+description: "A (not really) legal approach to chaotic licensing and researcher rights."
+theme: minima
+
+# GitHub Pages options
+markdown: kramdown
+
+# Optional: show in footer
+author:
+  name: "Hyperion Gray"
+  email: "licenses@hyperiongray.local"
+
+# Custom CSS
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-seo-tag
+
+# Include our custom assets
+include:
+  - assets/css/custom.css
+  - HYPERION_GRAY_BOOK_ON_LICENSING_FOR_PEOPLE_WHO_CANT_READ_GOOD_AND_WANT_TO_LEARN_TO_DO_OTHER_STUFF_GOOD_TOO.md
+  - choose-your-license.md
+  - license-tarot.md
+  - LICENSE.WHGOSL.MD
+  - LICENSE.SHGODL.MD
+
+# Optional: make URLs nice
+permalink: pretty

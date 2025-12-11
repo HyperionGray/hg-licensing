@@ -1,0 +1,46 @@
+/* Hyperion Gray Licensing Multiverse - Custom Styles */
+
+/* Make headings look a little more "grimoires and grim vibes" */
+h1, h2, h3 {
+  font-family: "Courier New", monospace;
+  letter-spacing: 0.05em;
+}
+
+/* Give code blocks a subtle, slightly hacker-y vibe */
+pre, code {
+  font-size: 0.9rem;
+  border-radius: 4px;
+}
+
+/* Links: make them pop */
+a {
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
+}
+
+a:hover {
+  border-bottom-style: solid;
+}
+
+/* Slightly narrower content width for long-ass filenames */
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Make lists breathe a bit */
+ul, ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+/* Add a subtle top border to give the page a "doc" feel */
+.site-header {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Footer small & quiet */
+.site-footer {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
