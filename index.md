@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Hyperion Gray Cinematic Licensing Multiverse
+title: Welcome to the Hyperion Gray Licensing Multiverse
 ---
 
 # The Hyperion Gray Licensing Multiverse
@@ -31,22 +31,22 @@ Draw a card. Summon your license.
 
 ---
 
-# CHOOSE YOUR OWN LICENSE  
+#  CHOOSE YOUR OWN LICENSE  
 [**Choose Your Own License Adventure**](./choose-your-license.md)
 
 Guaranteed more accurate than most lawyers.
 
 ---
 
-# CFP COLLECTION  
+#  CFP COLLECTION  
 A prestigious showcase of submissions that absolutely should not be submitted anywhere:
 
-- 🏢 [Corporate Black-Hat Sellout Edition](./cfp_corporate.md)  
-- 🔒 [Hyper-Legal Government Procurement Despair Edition](./cfp_government.md)  
-- 🕯️ [Cult Recruitment Pamphlet Edition](./cfp_cult.md)  
-- 🕵️ [CIA Declassified Redacted Edition](./cfp_cia.md)  
-- 📖 [Biblical Scripture Edition](./cfp_bible.md)  
-- 👤 [Buzzword Speaker Bio of Lies](./speaker_bio.md)
+-  [Corporate Black-Hat Sellout Edition](./cfp_corporate.md)  
+-  [Hyper-Legal Government Procurement Despair Edition](./cfp_government.md)  
+-  [Cult Recruitment Pamphlet Edition](./cfp_cult.md)  
+-  [CIA Declassified Redacted Edition](./cfp_cia.md)  
+-  [Biblical Scripture Edition](./cfp_bible.md)  
+-  [Buzzword Speaker Bio of Lies](./speaker_bio.md)
 
 (You can add more or combine them into one page if desired.)
 
@@ -64,24 +64,3 @@ Because your license should run.
 
 When in doubt, protect researchers and ship the code.
 
----
-
-## Philosophy in One Breath
-
-1. **Good-faith security research is explicitly allowed.**  
-2. **Retaliation against researchers is forbidden.**  
-3. **Law beats license (intentionally).**  
-4. **Use the code, build cool things, don’t be a jerk.**
-
----
-
-## Disclaimer
-
-Nothing on this site is legal advice.  
-If you treat it as such, that’s on you and your poor, overworked counsel.
-
----
-
-## Be Excellent To Each Other
-
-…and party on, developers, researchers, and aspiring chaotic entrepreneurs.
