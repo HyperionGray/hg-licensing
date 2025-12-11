@@ -1,3 +1,5 @@
+remote_theme: jekyll/minima@d4d779a
+
 # GitHub Pages options
 markdown: kramdown
 
@@ -8,10 +10,11 @@ author:
 
 # Custom CSS
 minima:
-  skin: classic
+  skin: dark
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Include our custom assets
 include:
