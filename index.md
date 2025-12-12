@@ -52,6 +52,22 @@ A prestigious showcase of submissions that absolutely should not be submitted an
 Because your license should run.
 
 ---
+# OH RIGHT, WE ACTUALLY DID WRITE SOME REAL LICENSES
+
+[**The Strong Hyperion Gray Open Source Development License**](./LICENSE.SHGODL.md)
+
+
+[**The Weak Hyperion Gray Open Source Developer License**](./LICENSE.WHGOSL.md)
+
+### What these are:
+
+- Real licenses you can use
+- Legally reviewed by non-lawyers
+- The strong HGOSDL is a viral license designed to protect and encourage security researchers. The only viral part is an agreement that if our work is reused, the person doing so must abide by and agree to non-anti security researcher policies such as: (1) threats of legal action (2) the intellectual property of vulnerabilities found remains the property of the security research to (3) disclose however and wherever they see fit per their own ethical framework.
+- The weak HGOSDL is a NON-viral license saying the same, except people can reuse our work without agreeing to the above re. security research, but must include our license in its original form. Essentially so if they decide to go against this term, they look like assholes.
+- Yes, again, these are real licenses. Why? Because we're sick of getting threatened with legal action for doing good work. So fuck em. They can agree to be reasonable or they can not use our products.
+ 
+---
 
 # PRIME DIRECTIVE  
 > **BE EXCELLENT TO EACH OTHER.**
