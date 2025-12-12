@@ -9,6 +9,7 @@ This site exists to help:
 - Alarm compliance departments  
 - Educate the masses  
 - Beta-test the limits of GitHub Pages  
+- Provide real licenses at the bottom that can actually be used
 
 ---
 
@@ -41,8 +42,6 @@ A prestigious showcase of submissions that absolutely should not be submitted an
 -  [CIA Declassified Redacted Edition](./cfp_cia.md)  
 -  [Biblical Scripture Edition](./cfp_bible.md)  
 -  [Buzzword Speaker Bio of Lies](./speaker_bio.md)
-
-(You can add more or combine them into one page if desired.)
 
 ---
 
