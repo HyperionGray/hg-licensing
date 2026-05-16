@@ -1,31 +1,68 @@
 /* Hyperion Gray Licensing Multiverse - Custom Styles */
 
+body {
+  margin: 0;
+  background: #3a4049;
+  color: #d7dde5;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+.site-header,
+.site-footer {
+  background: #2f353d;
+}
+
+.site-title,
+.site-title:visited,
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: #eef2f6;
+}
+
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+}
+
 /* Make headings look a little more "grimoires and grim vibes" */
 h1, h2, h3 {
   font-family: "Courier New", monospace;
   letter-spacing: 0.05em;
+  color: #f3f6f9;
 }
 
 /* Give code blocks a subtle, slightly hacker-y vibe */
 pre, code {
   font-size: 0.9rem;
   border-radius: 4px;
+  background: #262b31;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  padding: 0.1rem 0.3rem;
 }
 
 /* Links: make them pop */
 a {
+  color: #bdd0e5;
   text-decoration: none;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
+  border-bottom: 1px dashed rgba(189, 208, 229, 0.45);
+}
+
+a:visited {
+  color: #cbbce0;
 }
 
 a:hover {
+  color: #e4edf7;
   border-bottom-style: solid;
-}
-
-/* Slightly narrower content width for long-ass filenames */
-.page-content {
-  max-width: 900px;
-  margin: 0 auto;
 }
 
 /* Make lists breathe a bit */
@@ -36,11 +73,30 @@ ul, ol {
 
 /* Add a subtle top border to give the page a "doc" feel */
 .site-header {
-  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.12);
+}
+
+.site-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.site-header,
+.site-footer,
+blockquote,
+hr,
+table th,
+table td {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+blockquote,
+table,
+pre {
+  background: rgba(20, 24, 29, 0.2);
 }
 
 /* Footer small & quiet */
 .site-footer {
   font-size: 0.8rem;
-  opacity: 0.7;
+  opacity: 0.85;
 }

@@ -1,5 +1,5 @@
 ---
-title: **Hyperion Gray Book on Licensing for People Who Can’t Read Good and Want to Learn To Do Other Stuff Good Too Like Licensing (WIP)**.
+title: "Hyperion Gray Book on Licensing for People Who Can’t Read Good and Want to Learn To Do Other Stuff Good Too Like Licensing (WIP)."
 ---
 
 This site exists to help:
@@ -72,4 +72,3 @@ Because your license should run.
 > **BE EXCELLENT TO EACH OTHER.**
 
 When in doubt, protect researchers and ship the code.
-
