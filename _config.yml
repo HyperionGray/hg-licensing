@@ -1,10 +1,6 @@
----
 title: Hyperion Gray's Chaotic Licensing Guide for the Aspiring Entrpreneur- Classic Edition, Hard-bound/Leather e-book.
 date: Look at a clock.
----
-
-
-remote_theme: jekyll/minima@d4d779a
+theme: minima
 
 titles_from_headings:
   enabled:     true
@@ -19,6 +15,12 @@ markdown: kramdown
 author:
   name: "Hyperion Gray"
   email: "licenses@hyperiongray.local"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Custom CSS
 minima:
